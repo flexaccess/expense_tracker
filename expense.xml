@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<expenses>
+  <expense date="20.08.2017" category="educate" amount="2000" value="Курс по английскому языку"></expense>
+  <expense date="20.08.2017" category="educate" amount="300" value="За интернет"></expense>
+  <expense date="21.08.2017" category="food" amount="1800" value="Продукты"></expense>
+  <expense date="21.08.2017" category="food" amount="120" value="Газетка"></expense>
+  <expense date="22.08.2017" category="educate" amount="1900" value="Курс по Ruby"></expense>
+  <expense date="23.07.2017" category="entertainment" amount="700" value="Кальянная"></expense>
+  <expense date="23.07.2017" category="entertainment" amount="240" value="На роллы"></expense>
+</expenses>
