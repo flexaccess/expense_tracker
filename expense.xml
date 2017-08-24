@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?> 
 <expenses>
-  <expense date="20.08.2017" category="educate" amount="2000" value="Курс по английскому языку"></expense>
-  <expense date="20.08.2017" category="educate" amount="300" value="За интернет"></expense>
-  <expense date="21.08.2017" category="food" amount="1800" value="Продукты"></expense>
-  <expense date="21.08.2017" category="food" amount="120" value="Газетка"></expense>
-  <expense date="22.08.2017" category="educate" amount="1900" value="Курс по Ruby"></expense>
-  <expense date="23.07.2017" category="entertainment" amount="700" value="Кальянная"></expense>
-  <expense date="23.07.2017" category="entertainment" amount="240" value="На роллы"></expense>
+  <expense date='20.08.2017' amount='2000' value='Курс по английскому языку'/>
+  <expense date='20.08.2017' amount='300' value='За интернет'/>
+  <expense date='21.08.2017' amount='1800' value='Продукты'/>
+  <expense date='21.08.2017' amount='120' value='Газетка'/>
+  <expense date='22.08.2017' amount='1900' value='Курс по Ruby'/>
+  <expense date='23.07.2017' amount='700' value='Кальянная'/>
+  <expense date='23.07.2017' amount='240' value='На роллы'/>
+  <expense date='2017-08-24' amount='500000' value='Car'/>
+  <expense date='2017-07-20' amount='13000' value='Phone'/>
 </expenses>
